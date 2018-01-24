@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="1_4_second">
+    <output-path>$PROJECT_DIR$/out/artifacts/1_4_second</output-path>
+    <root id="archive" name="1_4_second.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/src/lab1/hello_from_second.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/labs_1_2018/lab1/hello_from_second.class" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/1_4_second/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="labs_1_2018" />
+    </root>
+  </artifact>
+</component>
